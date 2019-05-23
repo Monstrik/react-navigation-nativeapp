@@ -3,11 +3,21 @@
 # Quick example for React Native Standard App Navigation
 
 Standard App Navigation with Side-Menu Implemented with StackNavigator + DrawerNavigator
+
 (StackNavigator for Log-in/Auth and DrawerNavigator for App business logic screens)
 
 <div align="center">
     <img src="pics/ScreenShot1.png" alt="" width="50%">
+    <img src="pics/ScreenShot2.png" alt="" width="50%">
 </div>
+
+
+react - "16.8.3",
+
+react-native - "0.59.8",
+
+react-navigation - "3.11.0"
+
 
 ## Requirements
 

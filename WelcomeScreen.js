@@ -23,7 +23,7 @@ class WelcomeScreen extends Component {
     render () {
         setTimeout(()=>{
             this.props.navigation.navigate("Dashboard");
-        },3000);
+        },10000);
         return (
             <View style={styles.container}>
                 <Text>Welcome Screen</Text>
