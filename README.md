@@ -2,14 +2,16 @@
 
 # Quick example for React Native Standard App Navigation
 
-Standard App Navigation with Side-Menu Implemented with StackNavigator + DrawerNavigator
+Standard App Navigation with Side-Menu 
+
+Implemented with StackNavigator + DrawerNavigator
 
 (StackNavigator for Log-in/Auth and DrawerNavigator for App business logic screens)
 
 <div align="center">
+    <img src="pics/ScreenShot2.png" alt="" width="50%">
     <img src="pics/ScreenShot0.png" alt="" width="50%">
     <img src="pics/ScreenShot1.png" alt="" width="50%">
-    <img src="pics/ScreenShot2.png" alt="" width="50%">
 </div>
 
 
@@ -40,8 +42,6 @@ Assuming you have all the requirements installed, you can setup and run the proj
 - `react-native run-ios` to run the iOS application (remember to start a simulator or connect an iPhone phone)
 
 
-### Package dependencies
-
 ## License
 
 This project is released under the [MIT License](LICENSE).
@@ -50,4 +50,5 @@ This project is released under the [MIT License](LICENSE).
 
 
 react-native link react-native-vector-icons
+
 react-native link react-native-gesture-handler
