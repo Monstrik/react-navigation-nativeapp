@@ -7,6 +7,7 @@ Standard App Navigation with Side-Menu Implemented with StackNavigator + DrawerN
 (StackNavigator for Log-in/Auth and DrawerNavigator for App business logic screens)
 
 <div align="center">
+    <img src="pics/ScreenShot0.png" alt="" width="50%">
     <img src="pics/ScreenShot1.png" alt="" width="50%">
     <img src="pics/ScreenShot2.png" alt="" width="50%">
 </div>
